@@ -1,5 +1,3 @@
-!http://clients.fudgestudios.com/chester.jpg!
-
 h1. Openchron API
 
 see:
