@@ -1,5 +1,3 @@
 h1. Openchron API
 
-see:
- http://www.openchron.org
- http://api.openchron.org
+see "www.openchron.org":http://www.openchron.org
